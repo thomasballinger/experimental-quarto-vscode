@@ -1,0 +1,12 @@
+{
+    "name": "Quarto",
+    "scopeName": "text.html.quarto",
+    "fileTypes": [
+        "qmd"
+    ],
+    "patterns": [
+        {
+            "include": "text.html.markdown"
+        }
+    ]
+}
